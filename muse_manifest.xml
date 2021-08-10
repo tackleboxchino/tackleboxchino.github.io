@@ -1,11 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chinocappin.com" resolutions="1x,2x" timestamp="1628570125250">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chinocappin.com" resolutions="1x,2x" timestamp="1628570895456">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4090260844" ref="phone>index"/>
+      <file name="index.css" crc="3982325182" ref="phone>index"/>
       <file name="music-videos.css" crc="4112532976" ref="phone>music-videos"/>
       <file name="nomq_music-videos.css" crc="3824530138" ref="phone>music-videos"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="452512180" seo="true" mt="1628570036153" redirect="true"/>
+    <file name="index.html" crc="3796565953" seo="true" mt="1628570819868" redirect="true"/>
     <file name="music-videos.html" crc="115968130" seo="true" mt="1628569267041" redirect="true"/>
   </folder>
   <folder name="css">
@@ -119,6 +120,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="342957433" seo="true" mt="1628570083306" redirect="true"/>
+  <file name="index.html" crc="342957433" seo="true" mt="1628570856287" redirect="true"/>
   <file name="music-videos.html" crc="11740459" seo="true" mt="1628569329688" redirect="true"/>
 </manifest>
