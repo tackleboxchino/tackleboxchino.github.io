@@ -1,19 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chinocappin.com" resolutions="1x,2x" timestamp="1628563886838">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chinocappin.com" resolutions="1x,2x" timestamp="1628568085258">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="402464167" ref="phone>index"/>
-      <file name="music-videos.css" crc="4197777390" ref="phone>music-videos"/>
+      <file name="index.css" crc="292657750" ref="phone>index"/>
+      <file name="music-videos.css" crc="4112532976" ref="phone>music-videos"/>
       <file name="nomq_music-videos.css" crc="3824530138" ref="phone>music-videos"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="146328891" seo="true" mt="1628563097122" redirect="true"/>
-    <file name="music-videos.html" crc="525705581" seo="true" mt="1628562027930" redirect="true"/>
+    <file name="index.html" crc="86282474" seo="true" mt="1628567946220" redirect="true"/>
+    <file name="music-videos.html" crc="3848151193" seo="true" mt="1628566527463" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="46914993" ref="index"/>
-    <file name="nomq_index.css" crc="4069398067" ref="index"/>
-    <file name="music-videos.css" crc="4139020761" ref="music-videos"/>
-    <file name="nomq_music-videos.css" crc="400860878" ref="music-videos"/>
+    <file name="index.css" crc="1080798" ref="index"/>
+    <file name="nomq_index.css" crc="318443065" ref="index"/>
+    <file name="music-videos.css" crc="484652331" ref="music-videos"/>
+    <file name="nomq_music-videos.css" crc="4241671126" ref="music-videos"/>
   </folder>
   <folder name="fonts">
     <file name="poppins-bold.woff" crc="3904316003"/>
@@ -54,22 +55,16 @@
     <file name="apple music-u2608-fr.png" crc="4222965731" ref="phone>index"/>
     <file name="tacklebox white.svg" crc="461178488" ref="phone>index:phone>music-videos:index:music-videos"/>
     <file name="tacklebox white_poster_u1333.png" crc="4071395336" ref="phone>index:phone>music-videos:index:music-videos"/>
-    <file name="background mobile.png" crc="521943305" ref="phone>index">
+    <file name="stream mobile.png" crc="277763731" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="background mobile_2x.png" crc="4030350795" ref="phone>index">
+    <file name="stream mobile_2x.png" crc="3837058109" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="stream mobile.png" crc="3992213955" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stream mobile_2x.png" crc="177405355" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fixedmusic videos-u4923-fr.png" crc="4135019759" ref="phone>index"/>
-    <file name="fixedmusic videos-u4923-fr_2x.png" crc="39122449" ref="phone>index"/>
-    <file name="store mobile-u2598-fr.png" crc="341526969" ref="phone>index"/>
-    <file name="store mobile-u2598-fr_2x.png" crc="470465872" ref="phone>index"/>
+    <file name="fixedmusic videos-u4923-fr.png" crc="20189015" ref="phone>index"/>
+    <file name="fixedmusic videos-u4923-fr_2x.png" crc="3912436947" ref="phone>index"/>
+    <file name="store mobile-u2598-fr.png" crc="343235407" ref="phone>index"/>
+    <file name="store mobile-u2598-fr_2x.png" crc="478620548" ref="phone>index"/>
     <file name="instagram_poster_u3422.png" crc="231841790" ref="phone>index:index"/>
     <file name="tiktok-u2610-fr_2x.png" crc="3998839949" ref="phone>index"/>
     <file name="twitter-u2611-fr_2x.png" crc="108748762" ref="phone>index"/>
@@ -118,7 +113,13 @@
     <file name="fixedmusic videos-u706-fr5.png" crc="207446495" ref="index"/>
     <file name="fixedmusic videos-u706-fr_2x5.png" crc="4100815169" ref="index"/>
     <file name="store-u837-fr6.png" crc="529896334" ref="index"/>
+    <file name="background copy.jpg" crc="297449228" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background copy_2x.jpg" crc="3833270913" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4236770414" seo="true" mt="1628563843653" redirect="true"/>
-  <file name="music-videos.html" crc="4262085801" seo="true" mt="1628562232723" redirect="true"/>
+  <file name="index.html" crc="195081660" seo="true" mt="1628568042622" redirect="true"/>
+  <file name="music-videos.html" crc="4210168527" seo="true" mt="1628567551085" redirect="true"/>
 </manifest>
